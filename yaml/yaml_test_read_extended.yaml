@@ -1,0 +1,18 @@
+# YAML syntax based contents
+
+# Each entry starting with - will appear
+# as an element of Py list whereas 
+# entries in key:value pair will be 
+# available as item of Py dictionary
+- name: package1
+  image: package.tar.gz
+  license: MIT
+  language: cpp
+- name: package2
+  image: package.tar.bz2
+  license: GPL
+  language: cpp
+  versions:
+    - c++98
+    - c++11
+    - c++14
