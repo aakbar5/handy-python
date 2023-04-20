@@ -20,6 +20,7 @@
 - [Singleton class object](general/singleton.py)
 - [Thread](general/py_thread.py)
 - [Parse arguments](general/args.py)
+- [Set](general/set.py)
 - [Read/Write JSON data](json/json_test.py)
 - [Read/Write YAML data](yaml/yaml_test.py)
 - [PyQt5 -- Hello world](qt5/qt_helloworld.py)
